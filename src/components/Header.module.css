@@ -1,0 +1,24 @@
+.header{
+    background: var(--gray-700);
+    height: 12.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+    font-size: 2.5rem; 
+}
+
+.header img{
+    margin-right: 0.75rem;
+    width: 22px;
+    height: 36px;;
+}
+
+
+
+.firtNameLogo{
+    color:var(--blue)
+}
+
+.secondNameLogo{
+    color:var(--purple-dark)
+}
